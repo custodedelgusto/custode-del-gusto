@@ -1,0 +1,10 @@
+# Custode del Gusto - Robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.custodedelgusto.com/sitemap.xml
+
+# Blocca cartelle non necessarie per i motori di ricerca
+Disallow: /assets/
