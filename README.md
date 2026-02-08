@@ -252,7 +252,14 @@ Scopri la **storia dell'azienda**, la **missione** (perché esisito), la **visio
 
 ### Categoria: Distillati
 
-**Athena Gin - (40% - 700 ml)**: Un gin cristallino, secco e sorprendentemente erbaceo. La foglia di ulivo e il rosmarino creano una miscela perfetta tra la terra aspra della Grecia e la sofisticatezza del pensiero. Non è un gin per la confusione. È il Gin di chi sa esattamente cosa vuole. **Prezzo**: €45,00 - **Disponibilità**: In stock
+**Athena Gin - (40% - 700 ml)**: Tipologia: Distilled Gin
+Athena Gin nasce come un omaggio alla sapienza mediterranea, un equilibrio raffinato tra forza e misura, istinto e armonia. È un gin che racconta la terra attraverso le sue erbe più nobili e aromatiche, ispirandosi a un immaginario antico, essenziale e profondamente naturale.
+Il profilo è decisamente erbaceo e balsamico, con un ingresso pulito e deciso del ginepro, che apre la strada a un intreccio di botaniche mediterranee. Le foglie di ulivo e il rosmarino evocano immediatamente paesaggi assolati, mentre timo, salvia e basilico costruiscono una struttura aromatica elegante e persistente. La freschezza della menta piperita alleggerisce il sorso, accompagnata da note speziate e leggermente agrumate di coriandolo e cardamomo.
+Il peperoncino Trinidad è dosato con grande precisione: non domina, ma scalda delicatamente il finale, lasciando una sensazione avvolgente e asciutta. Angelica e cumino di Malta chiudono il profilo con profondità e complessità, conferendo equilibrio e lunghezza gustativa.
+Athena Gin è un distilled gin, prodotto con alcol di cereali 100% italiano, ginepro umbro e toscano accuratamente selezionato e acqua osmotizzata e dinamizzata con residuo fisso di 12 mg/l.
+Non contiene zuccheri aggiunti, è gluten free e vegano.
+Vengono utilizzati esclusivamente ingredienti naturali, lavorati con la massima cura per preservarne l’identità aromatica.
+Un gin elegante, deciso e contemporaneo, pensato sia per una miscelazione di carattere sia per una degustazione consapevole. **Prezzo**: €45,00 - **Disponibilità**: In stock
 
 ---
 
